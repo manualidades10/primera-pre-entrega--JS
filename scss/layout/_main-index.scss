@@ -1,5 +1,16 @@
 h1{
+    text-align: center;
+}
+
+
+#tienda{
     display: flex;
-    justify-content: center;
-    margin-top: 25%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#carrito{
+    display: flex;
+    justify-content: space-around;
+
 }
